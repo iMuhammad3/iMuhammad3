@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @iMuhammad3
-
+- 👋 Hi, I’m Muhammad Auwal
+- 🧑🏾 I'm a 17 year old, learning fullstack development
 - 📫 How to reach me ... auwalmuhd365@icloud.com
-
