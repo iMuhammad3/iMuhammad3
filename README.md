@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Muhammad Auwal
-- 🧑🏾 I'm 17 year old
 - 📫 How to reach me ... auwalmuhd365@icloud.com
